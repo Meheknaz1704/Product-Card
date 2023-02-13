@@ -75,7 +75,6 @@ img {
     color: rgba(70, 62, 62, 0.696);
     font-family: 'Fraunces', serif;
 
-
 }
 
 .max p {
@@ -91,6 +90,7 @@ button {
     color: white;
     font-family: sans-serif;
     margin-top: 30px;
+    cursor: pointer;
 
 }
 
